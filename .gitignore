@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Google OAuth files
+client_secret.json
+token.json
+
+# Logs
+upload_log.txt
+
+# Uploaded videos
+uploaded/
+
+# Python cache
+__pycache__/
+*.pyc
